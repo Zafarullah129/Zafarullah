@@ -1,0 +1,11 @@
+
+#include<stdio.h>
+#include<conio.h>
+int main ()
+{
+clrscr();
+	printf("Name:  ZAFARULLAH\n Father's Name: ATTA MUHAMMAD\n Age : 23 Years \nGrade:  A1");
+	getch();
+	return 0;
+
+}
